@@ -19,7 +19,7 @@ const nums = num1.concat(num2, num3);
 
 
 //Exemplo: Concatenando valores ao array ---------
-var alpha = ['a', 'b', 'c'];
+const alpha2 = ['a', 'b', 'c'];
 
 // creates array ["a", "b", "c", 1, 2, 3], leaving alpha unchanged
-var alphaNumeric = alpha.concat(1, [2, 3]);
+const alphaNumeric2 = alpha2.concat(1, [2, 3]);
